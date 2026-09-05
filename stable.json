@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-09-05T10:12:26.980Z",
+  "publishedAt": "2026-09-05T10:12:42.629Z",
   "server": {
     "gitSha": "505b093c36993dec1f990365357f900a4b334b37",
     "version": "v2026.09.05",
@@ -28,8 +28,8 @@
     "notes": "iPhone and Apple Watch crew app - update from the App Store."
   },
   "rollout": {
-    "stable": false,
+    "stable": true,
     "channel": "stable",
-    "stableSince": null
+    "stableSince": "2026-09-05T10:12:42.629Z"
   }
 }
